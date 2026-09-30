@@ -1,0 +1,20 @@
+{
+  "name": "voicelab",
+  "version": "1.0.0",
+  "description": "Speech AI for agents via the hosted VoiceLab MCP: text-to-speech, speech-to-text with timing, voice isolation, and LLM completions in Uzbek, Russian, and English.",
+  "author": {
+    "name": "Elzodxon Sharofaddinov",
+    "email": "elzodxon@gmail.com",
+    "url": "https://voicelab.uz"
+  },
+  "homepage": "https://voicelab.uz",
+  "repository": "https://github.com/voicelab-uz/grok-plugin",
+  "license": "MIT",
+  "keywords": [
+    "voicelab",
+    "aisha",
+    "voicelab tts",
+    "voicelab stt",
+    "voicelab mcp"
+  ]
+}
